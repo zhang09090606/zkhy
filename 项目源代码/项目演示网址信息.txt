@@ -1,0 +1,8 @@
+项目前台地址http://www.lylhst.cn/zlsz/login.html
+测试员工用户名：zhang 密码zhang
+测试员工用户名：ling1 密码111111
+测试管理端地址：http://www.lylhst.cn/zlsz/jyzfz_admin/login.html
+用户名zlsz密码zlsz
+
+
+
